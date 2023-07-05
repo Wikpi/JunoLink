@@ -1,0 +1,1 @@
+* For now a generic blockchain following a tutorial
